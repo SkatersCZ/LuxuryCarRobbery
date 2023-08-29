@@ -1,0 +1,8 @@
+C:\Users\vojta\source\repos\LuxuryCarRobbery\bin\Debug\LuxuryCarRobbery.dll
+C:\Users\vojta\source\repos\LuxuryCarRobbery\bin\Debug\LuxuryCarRobbery.pdb
+C:\Users\vojta\source\repos\LuxuryCarRobbery\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\vojta\source\repos\LuxuryCarRobbery\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\vojta\source\repos\LuxuryCarRobbery\obj\Debug\LuxuryCarRobbery.csproj.CoreCompileInputs.cache
+C:\Users\vojta\source\repos\LuxuryCarRobbery\obj\Debug\LuxuryCarRobbery.csproj.CopyComplete
+C:\Users\vojta\source\repos\LuxuryCarRobbery\obj\Debug\LuxuryCarRobbery.dll
+C:\Users\vojta\source\repos\LuxuryCarRobbery\obj\Debug\LuxuryCarRobbery.pdb
